@@ -1,8 +1,8 @@
 # bpmn-js-honkify
 
-bpmn-js extension which is inspired by [honkify](https://github.com/jlengstorf/honkify)
+bpmn-js extension which is inspired by [honkify](https://github.com/jlengstorf/honkify).
 
-![gif](./resources/screencast.gif)
+**Turn your Audio on to hear the honk! 🦆**
 
 ## Installation
 
