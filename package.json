@@ -1,0 +1,33 @@
+{
+  "name": "bpmn-js-honkify",
+  "version": "0.1.0",
+  "description": "bpmn-js extension which is inspired by honkify",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pinussilvestrus/bpmn-js-honkify"
+  },
+  "keywords": [
+    "bpmn-js",
+    "diagram-js",
+    "honkify"
+  ],
+  "author": {
+    "name": "Niklas Kiefer",
+    "url": "https://github.com/pinussilvestrus"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.12.0",
+    "eslint-plugin-bpmn-io": "^0.5.2"
+  },
+  "dependencies": {
+    "diagram-js": "^5.0.2",
+    "inherits": "^2.0.4",
+    "min-dom": "^3.0.0",
+    "tiny-svg": "^2.2.1"
+  }
+}
