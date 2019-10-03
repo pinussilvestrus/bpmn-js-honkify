@@ -77,6 +77,16 @@ a:link {
   list-style: none;
 }
 
+#honkify-note {
+  position: fixed;
+  bottom: 60px;
+  left: 20px;
+  background: #266EBF;
+  color: white;
+  display: inline-block;
+  padding: 5px;
+}
+
 .buttons > li {
   display: inline-block;
   margin-right: 10px;
