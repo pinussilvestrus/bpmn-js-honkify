@@ -1,6 +1,6 @@
 {
   "name": "bpmn-js-honkify",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "bpmn-js extension which is inspired by honkify",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,6 @@
   "dependencies": {
     "diagram-js": "^5.0.2",
     "inherits": "^2.0.4",
-    "min-dom": "^3.1.1",
-    "tiny-svg": "^2.2.2"
+    "show-toast": "^1.1.4"
   }
 }
