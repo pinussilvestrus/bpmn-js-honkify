@@ -10,6 +10,10 @@ bpmn-js extension which is inspired by [honkify](https://github.com/jlengstorf/h
 $ npm i --save bpmn-js-honkify
 ```
 
+![](./resources/screencast.gif)
+
+Checkout the [**Example**](./example/) for further instructions.
+
 ## Usage
 ```js
 import BpmnModeler from 'bpmn-js/lib/Modeler';
