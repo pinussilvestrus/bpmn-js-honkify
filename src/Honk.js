@@ -68,6 +68,7 @@ export default function Honk(eventBus, injector) {
 
       }, Promise.resolve());
 
+      // eslint-disable-next-line require-atomic-updates
       granularEvents = [];
 
       return false;
