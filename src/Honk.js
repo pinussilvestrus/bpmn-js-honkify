@@ -81,6 +81,8 @@ export default function Honk(eventBus, injector) {
   }
 
   this.preExecute([
+    'connection.create',
+    'connection.delete',
     'shape.create',
     'shape.move',
     'shape.delete'
