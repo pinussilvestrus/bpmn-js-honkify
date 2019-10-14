@@ -2,7 +2,9 @@
 
 bpmn-js extension which is inspired by [honkify](https://github.com/jlengstorf/honkify).
 
-**Turn your Audio on to hear the honk! 🦆**
+➡[**Try out on netlify**](https://bpmn-js-honkify.netlify.com/)
+
+Turn your Audio on to hear the honk(s)! 🦆
 
 ## Installation
 
